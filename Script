@@ -2,5 +2,5 @@ local gameid = game.PlaceId
 if gameid == 86639052909924 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Nexus242/Auto-Raid--2/refs/heads/main/Join"))()
 elseif gameid == 119477642078428 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Nexus242/-/refs/heads/main/Ruok"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Nexus242/Auto-Raid--2/refs/heads/main/Dungeo"))()
 end
