@@ -1,0 +1,6 @@
+local gameid = game.PlaceId
+if gameid == 86639052909924 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Nexus242/-/refs/heads/main/README.md"))()
+elseif gameid == 119477642078428 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Nexus242/-/refs/heads/main/Ruok"))()
+end
